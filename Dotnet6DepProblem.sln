@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet6DepProblem", "Dotnet6DepProblem\Dotnet6DepProblem.csproj", "{29264A45-2A87-4A0C-847D-D65DB3DCF142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet5", "Dotnet5\Dotnet5.csproj", "{4A0EE722-0CA4-4B66-A4F9-571C27E10D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet6EngSharpfont", "Dotnet6EngSharpfont\Dotnet6EngSharpfont.csproj", "{E49E87D2-3C46-4FCD-AD5C-AEE94654573E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet5EngSharpFont", "Dotnet5EngSharpFont\Dotnet5EngSharpFont.csproj", "{0711957C-A587-41EA-A42A-C77BEBDE8F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29264A45-2A87-4A0C-847D-D65DB3DCF142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29264A45-2A87-4A0C-847D-D65DB3DCF142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29264A45-2A87-4A0C-847D-D65DB3DCF142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29264A45-2A87-4A0C-847D-D65DB3DCF142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0EE722-0CA4-4B66-A4F9-571C27E10D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0EE722-0CA4-4B66-A4F9-571C27E10D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0EE722-0CA4-4B66-A4F9-571C27E10D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0EE722-0CA4-4B66-A4F9-571C27E10D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49E87D2-3C46-4FCD-AD5C-AEE94654573E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49E87D2-3C46-4FCD-AD5C-AEE94654573E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49E87D2-3C46-4FCD-AD5C-AEE94654573E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49E87D2-3C46-4FCD-AD5C-AEE94654573E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0711957C-A587-41EA-A42A-C77BEBDE8F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0711957C-A587-41EA-A42A-C77BEBDE8F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0711957C-A587-41EA-A42A-C77BEBDE8F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0711957C-A587-41EA-A42A-C77BEBDE8F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
