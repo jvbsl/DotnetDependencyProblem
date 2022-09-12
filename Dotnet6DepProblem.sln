@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet6DepProblem", "Dotnet6DepProblem\Dotnet6DepProblem.csproj", "{29264A45-2A87-4A0C-847D-D65DB3DCF142}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet6", "Dotnet6\Dotnet6.csproj", "{29264A45-2A87-4A0C-847D-D65DB3DCF142}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet5", "Dotnet5\Dotnet5.csproj", "{4A0EE722-0CA4-4B66-A4F9-571C27E10D11}"
 EndProject
